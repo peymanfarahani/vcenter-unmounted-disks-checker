@@ -19,3 +19,14 @@ To run this script, you'll need:
    ```bash
    git clone https://github.com/your-username/vcenter-unmounted-disks-checker.git
    cd vcenter-unmounted-disks-checker
+
+### Install dependencies:
+pip install -r requirements.txt
+
+### Usage
+vcenter_ip = "vcenter_ip_or_hostname"
+vcenter_user = "your_vcenter_user"
+vcenter_password = "your_vcenter_password"
+
+
+
